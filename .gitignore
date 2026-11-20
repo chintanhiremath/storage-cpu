@@ -1,0 +1,12 @@
+/.env
+/.env.*
+/fpga/vitis/build/
+*.bin
+*.vvp
+*.vcd
+*.fst
+*.xo
+*.xclbin
+*.o
+*.pem
+*.key
